@@ -1,4 +1,19 @@
 body
 {
     background-color: #000;
+    color: #fff;
+}
+.h1
+
+/* .datos-personales1
+{
+    color: #fff;
+} */
+footer
+{
+    background-color: #2B3035;
+    width: 100%;
+    height: auto;
+    color: #fff;
+    text-align: center;
 }
