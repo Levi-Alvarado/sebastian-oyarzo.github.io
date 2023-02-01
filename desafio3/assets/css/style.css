@@ -103,12 +103,13 @@ th
 
 .tercera
 {
-    background-color: #fff;
+    background-color: #000;
     height: 348px;
-    width: 100%;
     display: flex;
-    /* padding: 0px 15px 0px 15px; */
-    border: solid green;
+    align-items: center;
+    gap: 20px;
+    justify-content: center;
+    width: 100%;
 }
 
 .img-tercera
@@ -116,17 +117,6 @@ th
     width: 316px;
     height: 202px;
 }
-.img-tercera
-{
-    width: 316px;
-    height: 202px;
-}
-.img-tercera
-{
-    width: 316px;
-    height: 202px;
-}
-
 footer
 {
     width: 100%;
